@@ -21,6 +21,8 @@ A Streamlit-based web app that enables users to record, trim, and save high-qual
 -  **User Feedback**  
   Toast notifications confirm successful saves.
 
+![alt text](assets/voice-recorder.png)
+
 ---
 
 ## Directory Structure
